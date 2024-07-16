@@ -28,10 +28,6 @@
 	<true/>
 	<key>NSCameraUsageDescription</key>
 	<string>We need access to the camera to capture the user surroundings</string>
-	<key>NSMicrophoneUsageDescription</key>
-	<string>We need access to the microphone to listen to user commands</string>
-	<key>NSSpeechRecognitionUsageDescription</key>
-	<string>We need access to listen to user commands</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
