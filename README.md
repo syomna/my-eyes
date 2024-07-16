@@ -11,7 +11,7 @@ My Eyes is a Flutter application designed to assist vision-impaired individuals 
 
 ## Demo
 
-Watch a demo of My Eyes: [My Eyes App Demo](https://drive.google.com/file/d/1F72Dxmyf7V2LtQaB9P6KBwGyyyt0S2qy/view?usp=sharing)
+Watch a demo of My Eyes: [My Eyes App Demo](https://youtube.com/shorts/S7HYC4YXEwA)
 
 ## Getting Started
 
